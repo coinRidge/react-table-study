@@ -1,0 +1,7 @@
+.container_center {
+	margin: 0 auto;
+	width: 970px;
+}
+.ant-form-explain {
+    display: none !important;
+}
